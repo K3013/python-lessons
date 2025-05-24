@@ -1,6 +1,5 @@
 en_us = "Welcome to Better Vibrant Visuals"
 fr_fr = "Bienvenu sur Better Vibrant Visuals"
-close_warning = "This installer will close in 5 seconds"
 pack_name = "Better Vibrant Visuals" # the mod's name
 lang= input("What is you country ? 1) france or 2) england ?        :")
 
