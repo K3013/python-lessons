@@ -1,15 +1,15 @@
 en_us = "Welcome to Better Vibrant Visuals"
-fr_fr = "Bienvenu sur Better Vibrant Visuals"
+fr_fr = "Bienvenue sur Better Vibrant Visuals"
 pack_name = "Better Vibrant Visuals" # the mod's name
-lang= input("What is you country ? 1) france or 2) england ? : ")
+lang= input("What is you country? 1) france 2) england : ")
 
 if lang == ("1"): # si le français est sélectionné
   print (fr_fr)
   print("choisissez votre opération")
-  op = input("1. install 2. do nothing : ")
+  op = input("1. installer 2. ne rien faire : ")
   if op == ("1"):
    print ("done")
-   print("Thanks for download" +" "+str(pack_name))
+   print("merci d'avoir téléchargé" +" "+str(pack_name))
   else:
    print ("ok")
    
